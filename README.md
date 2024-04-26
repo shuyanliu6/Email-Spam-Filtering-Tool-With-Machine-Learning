@@ -33,7 +33,7 @@ Please note that you may need to create a Dropbox account to access the files.
 1. Clone the repository: `git clone https://github.com/shuyanliu6/Email-Spam-Filtering-Tool-With-Machine-Learning`
 2. Set up a Python virtual environment (optional but recommended): `python -m venv venv` and `source venv/bin/activate` (On Windows use `venv\Scripts\activate`)
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the application: `python app.py`
+4. Run the application: `python Email Spam Detection API.py`
 
 ## Usage
 

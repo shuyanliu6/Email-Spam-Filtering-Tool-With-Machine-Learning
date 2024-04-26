@@ -4,6 +4,14 @@
 
 This API utilizes a machine learning model to predict whether an email is spam or not based on its content. Built using Python and Flask, it's designed for educational purposes and simple demonstrations.
 
+## Datasets
+
+The datasets used in this project are too large to be hosted on GitHub. You can access them via the following Dropbox link:
+
+[[Insert shareable link here](https://www.dropbox.com/scl/fo/ftkdawlhffyjv15if9d3p/AGvvf5ZDzsN8uC86GD9OsOE?rlkey=8irdn7czo1nzgifcsitbyboll&st=dt49fqs5&dl=0)]
+
+Please note that you may need to create a Dropbox account to access the files.
+
 ## Features
 
 * **Spam Prediction**: Determines if an email text is spam.

@@ -8,7 +8,7 @@ This API utilizes a machine learning model to predict whether an email is spam o
 
 The datasets used in this project are too large to be hosted on GitHub. You can access them via the following Dropbox link:
 
-[[Insert shareable link here](https://www.dropbox.com/scl/fo/ftkdawlhffyjv15if9d3p/AGvvf5ZDzsN8uC86GD9OsOE?rlkey=8irdn7czo1nzgifcsitbyboll&st=dt49fqs5&dl=0)]
+[[Datasets](https://www.dropbox.com/scl/fo/ftkdawlhffyjv15if9d3p/AGvvf5ZDzsN8uC86GD9OsOE?rlkey=8irdn7czo1nzgifcsitbyboll&st=dt49fqs5&dl=0)]
 
 Please note that you may need to create a Dropbox account to access the files.
 
@@ -30,7 +30,7 @@ Please note that you may need to create a Dropbox account to access the files.
 
 ### Installation
 
-1. Clone the repository: `git clone (link unavailable) and cd spam-detection-api`
+1. Clone the repository: `git clone https://github.com/shuyanliu6/Email-Spam-Filtering-Tool-With-Machine-Learning`
 2. Set up a Python virtual environment (optional but recommended): `python -m venv venv` and `source venv/bin/activate` (On Windows use `venv\Scripts\activate`)
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the application: `python app.py`
